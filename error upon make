@@ -1,0 +1,5 @@
+git clone https://github.com/immumiii/pokecrystal.git
+cd pokecrystal
+git remote add upstream https://github.com/pret/pokecrystal.git
+git pull upstream master
+git push origin main
